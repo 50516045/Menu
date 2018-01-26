@@ -103,6 +103,7 @@ public class Menu_view extends Frame implements ActionListener,WindowListener {
 	@Override
 	public void windowClosing(WindowEvent arg0) {
 		// TODO Auto-generated method stub
+		System.exit(0);
 		
 	}
 
